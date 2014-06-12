@@ -3,7 +3,7 @@ layout: post
 permalink: /about/index.html
 title: What is this?
 image:
-  feature: soft-trees.jpg
+  feature: tam.jpg
 ---
 
 I'm not sure yet, exactly. I'm a big fan of [The Setup](http://usesthis.com/about/) by [waferbaby](http://twitter.com/waferbaby) who describes his project as:

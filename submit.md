@@ -3,7 +3,7 @@ layout: post
 permalink: /submit/index.html
 title: Submit your story
 image:
-  feature: soft-trees.jpg
+  feature: 6833700051_23a106c17c_o.jpg
 ---
 
 I would love to hear your story. If you already know about GitHub, Jekyll and Markdown, [have at it.](https://github.com/briandoll/kitandride). I'll be posting a how-to here soon, though, to ensure everyone can contribute.
@@ -20,4 +20,6 @@ The interview questions for each post are:
 * Favorite cafe stop? What do you get?
 * Favorite Rule?
 
-Be yourself. Share your story. Have fun. Inspire others.
+To make it easy for now, feel free to [email me](mailto:brian@emphaticsolutions.com) your answers and I'll post them.
+
+Be yourself. Share your story. Inspire others. Have fun.

@@ -1,8 +1,40 @@
-title: Total Pro
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-baseurl: ""
-url: "http://yourdomain.com"
+title:            Total Pro
+tagline:          Your pro, baby.
+description:      Describe your website.
+#Comment out url when working locally to resolve base urls correctly
+#url: http://jekyll.gtat.me
 
-markdown: kramdown
-permalink: pretty
+owner:
+  name:           Brian Doll
+  avatar:         avatar.png
+  bio:            "Aesthete & Athlete"
+  email:          brian@emphaticsolutions.com
+  twitter:        briandoll
+  github:         briandoll
+
+# Links to include in top navigation
+# For external links add external: true
+links:
+  - title: What is this?
+    url: /about
+  - title: Submit your story
+    url: /submit
+
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:    America/New_York
+future:      true
+highlighter: pygments
+markdown:    kramdown
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  use_coderay: false
+
+# https://github.com/mojombo/jekyll/wiki/Permalinks
+#permalink:   /:categories/:title
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp"]

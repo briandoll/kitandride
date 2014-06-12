@@ -1,13 +1,11 @@
-title:            Total Pro
+title:            Kit & Ride
 tagline:          Your pro, baby.
-description:      Describe your website.
+description:      Cycling kit and great rides from viewers like you
 #Comment out url when working locally to resolve base urls correctly
 #url: http://jekyll.gtat.me
 
 owner:
   name:           Brian Doll
-  avatar:         avatar.png
-  bio:            "Aesthete & Athlete"
   email:          brian@emphaticsolutions.com
   twitter:        briandoll
   github:         briandoll

@@ -6,7 +6,7 @@ image:
   feature: brown.jpg
 ---
 
-I would love to hear your story. If you already know about GitHub, Jekyll and Markdown, [have at it.](https://github.com/briandoll/kitandride). I'll be posting a tutorial on using GitHub for contributing, but for now just [email me](mailto:brian@emphaticsolutions.com) your answers with photos and links and I'll post 'em.
+I would love to hear your story. If you already know about GitHub, Jekyll and Markdown, [have at it](https://github.com/briandoll/kitandride). I'll be posting a tutorial on using GitHub for contributing, but for now just [email me](mailto:brian@emphaticsolutions.com) your answers with photos and links and I'll post 'em.
 
 The interview questions for each post are:
 

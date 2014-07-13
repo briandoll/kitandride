@@ -16,10 +16,14 @@ track racing at Dick Lane Velodrome and doing longer rides.
 ### What are you riding right now?
 
 I got a couple bikes. I have a 1985 Schwinn Peloton with Suntour Superbe Pro
-which is my relatively fancy, yet understated commuter. I race and do long rides
-on a 2011 Specialized Allez that's gone through some upgrades in my years of
-ownership and riding. I also have a Surly LHT built for touring, and a few bikes
-I'm in the process of selling 😅
+which is my relatively fancy, yet understated commuter. I feel bad about not
+keeping it completely true to its age, but I'm still playing with it I race and
+do long rides on a 2011 Specialized Allez that's gone through some upgrades in
+my years of ownership and riding. I also have a Surly LHT built for touring,
+and a few bikes I'm in the process of selling 😅
+
+![Commuter](https://cloud.githubusercontent.com/assets/2546/3564761/a9c0cb74-0a97-11e4-967e-e0096693082a.jpg)
+
 
 ### Are you a weekender? Commuter? Racer?
 

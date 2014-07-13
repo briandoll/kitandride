@@ -47,12 +47,14 @@ slick.
 
 ### What cycling magazines, books, clubs, or websites do you enjoy?
 
-Most of my information comes from my friends or just absorbed through hanging
-out with bike folks. I hang out at the [Rapha Cycle Club in San
+I like glancing over lots of random things even though I get a good bit from the
+community that I chat with. I hang out at the [Rapha Cycle Club in San
 Francisco](http://www.rapha.cc/sfc) a good bit since my girlfriend works there
 and its a great place to stop before or after a ride. I also read [Manual for
 Speed](http://manualforspeed.com/), [The Radavist](http://theradavist.com/), and
 [Cycle Exif](http://www.cycleexif.com/) to giggle and look at cool things.
+[Cycling Tips](http://cyclingtips.com.au/) is nice for something a bit more
+serious as well.
 
 ### What’s in your jersey pocket on a long ride?
 

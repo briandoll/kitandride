@@ -31,6 +31,9 @@ kramdown:
   toc_levels: 1..6
   use_coderay: false
 
+gems:
+  - jemoji
+
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 #permalink:   /:categories/:title
 

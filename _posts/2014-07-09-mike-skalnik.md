@@ -1,7 +1,7 @@
 ---
 layout: post-no-feature
-title: "Mike Skalnik: San Francisco,&nbsp;CA"
-description: "Bikes, bikes, :bike:�"
+title: "Mike Skalnik: San&nbsp;Francisco,&nbsp;CA"
+description: "Bikes, bikes, :bike:"
 ---
 
 ### How did you come to cycling?
@@ -20,7 +20,7 @@ which is my relatively fancy, yet understated commuter. I feel bad about not
 keeping it completely true to its age, but I'm still playing with it I race and
 do long rides on a 2011 Specialized Allez that's gone through some upgrades in
 my years of ownership and riding. I also have a Surly LHT built for touring,
-and a few bikes I'm in the process of selling :cry:�
+and a few bikes I'm in the process of selling :cry:
 
 ![Commuter](https://cloud.githubusercontent.com/assets/2546/3564761/a9c0cb74-0a97-11e4-967e-e0096693082a.jpg)
 

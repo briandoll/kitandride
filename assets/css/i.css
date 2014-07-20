@@ -750,6 +750,11 @@ header.site-header nav ul li a:hover {
   -webkit-border-radius: 4px;
   border-radius: 4px;
 }
+.emoji img {
+  width: 20px;
+  display: inline;
+  margin: 0px;
+}
 .post ul {
   display: block;
   margin-bottom: 33px;

@@ -1,7 +1,7 @@
 ---
 layout: post-no-feature
 title: "Mike Skalnik: San&nbsp;Francisco,&nbsp;CA"
-description: "Bikes, bikes, :bike:"
+description: "Bikes, bikes, bikes"
 ---
 
 ### How did you come to cycling?

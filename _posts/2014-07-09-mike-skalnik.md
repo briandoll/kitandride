@@ -70,6 +70,6 @@ the Alpine Dam ride and next to Sir Francis Drake, so I stop by often.
 
 ### Favorite [Rule?](http://www.velominati.com/the-rules/)
 
-I'm not a fan of the rules. While they're tounge in cheek, I've met some folks
+I'm not a fan of the rules. While they're tongue in cheek, I've met some folks
 who take them seriously and that annoys me. Rule #1 is ride your bike. Rule #2
 is have a blast.

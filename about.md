@@ -14,4 +14,4 @@ I was reading my very first copy of [Rouleur](http://rouleur.cc/) today. The wri
 
 Like The Setup, Kit & Ride will feature a series of interviews with a set list of questions. Unlike The Setup, the interviews will be written by you. Whoever you are. No schedules. No curation. Wild chaos. Inspiration from wherever it comes.
 
-[Whant to contribute?](/submit)
+[Want to contribute?](/submit)

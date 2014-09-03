@@ -52,7 +52,7 @@ I don't really read about, or watch, other people cycling much. I follow a few c
 
 ## What's in your jersey pocket on a long ride?
 
-Caffeinated gels, which would be kinda gross any other time but... easy and do the job. A Bonk Breaker bar. Money for emergency snacks. Heaven forbid I'd be short on fuel!
+Caffeinated gels, which would be kinda gross any other time but... easy and do the job. A Bonk Breaker bar. Money for emergency snacks. Heaven forbid I'd be short on fuel ;)
 
 ## Favorite cafe stop? What do you get?
 

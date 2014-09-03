@@ -1,7 +1,7 @@
 ---
 layout: post-no-feature
 title: "Keavy McMinn: Boulder, CO"
-description: ""
+description: "Software developer, amateur triathlete"
 ---
 
 ### How did you come to cycling?

@@ -21,7 +21,7 @@ I mostly ride my new tri bike, a [Cervelo P3](http://www.cervelo.com/en/bikes/p-
 I'm 5' 2" and it's always tricky to find good bikes that fit me. Cervelo make their range into very small sizes, to suit smaller people, not women specifically, which I appreciate. I'm not a fan of the "pink it and shrink it" approach of some brands. My bike is a 45cm frame size, which is so small it means 650c wheels. I also have super short 155mm cranks. I have electronic shifting, which is *smoooth*. I'll spend a lot of hours on this bike, so I wanted to love every thing about it. I had the fit fine tuned at Retul, and it feels great!
 
 I have a [Cervelo S3](http://www.cervelo.com/en/bikes/s-series/s3.html) for some pure fun road rides, which I kitted out to be more of a classy road bike with red Chris King hubs and the understated Enve carbon wheels.
-![](http://distilleryimage7.ak.instagram.com/68f79b84b82e11e2aff022000a1f90b2_7.jpg)
+![](http://scontent-a-dfw.cdninstagram.com/hphotos-xfa1/t51.2885-15/10623824_757494137648952_657031435_n.jpg)
 
 I also have a [Specialized Fate](http://www.specialized.com/us/en/bikes/archive/2013/fate/fateexpertcarbon29), their women's hardtail 29er, for the occasional venture to the dirt side.
 

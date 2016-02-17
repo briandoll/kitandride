@@ -2,7 +2,7 @@ title:            Kit & Ride
 tagline:          Your pro, baby.
 description:      Cycling kit and great rides from viewers like you
 #Comment out url when working locally to resolve base urls correctly
-url: http://kitandride.com
+url: /kitandride
 
 owner:
   name:           Brian Doll
